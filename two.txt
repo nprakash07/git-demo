@@ -1,2 +1,7 @@
 two
+<<<<<<< HEAD
 2
+=======
+2
+changes for development branch
+>>>>>>> main
